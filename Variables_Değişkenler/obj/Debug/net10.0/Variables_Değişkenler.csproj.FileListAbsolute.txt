@@ -1,0 +1,14 @@
+/home/capsin/deneme1/Variables_Değişkenler/bin/Debug/net10.0/Variables_Değişkenler
+/home/capsin/deneme1/Variables_Değişkenler/bin/Debug/net10.0/Variables_Değişkenler.deps.json
+/home/capsin/deneme1/Variables_Değişkenler/bin/Debug/net10.0/Variables_Değişkenler.runtimeconfig.json
+/home/capsin/deneme1/Variables_Değişkenler/bin/Debug/net10.0/Variables_Değişkenler.dll
+/home/capsin/deneme1/Variables_Değişkenler/bin/Debug/net10.0/Variables_Değişkenler.pdb
+/home/capsin/deneme1/Variables_Değişkenler/obj/Debug/net10.0/Variables_Değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+/home/capsin/deneme1/Variables_Değişkenler/obj/Debug/net10.0/Variables_Değişkenler.AssemblyInfoInputs.cache
+/home/capsin/deneme1/Variables_Değişkenler/obj/Debug/net10.0/Variables_Değişkenler.AssemblyInfo.cs
+/home/capsin/deneme1/Variables_Değişkenler/obj/Debug/net10.0/Variables_Değişkenler.csproj.CoreCompileInputs.cache
+/home/capsin/deneme1/Variables_Değişkenler/obj/Debug/net10.0/Variables_Değişkenler.dll
+/home/capsin/deneme1/Variables_Değişkenler/obj/Debug/net10.0/refint/Variables_Değişkenler.dll
+/home/capsin/deneme1/Variables_Değişkenler/obj/Debug/net10.0/Variables_Değişkenler.pdb
+/home/capsin/deneme1/Variables_Değişkenler/obj/Debug/net10.0/Variables_Değişkenler.genruntimeconfig.cache
+/home/capsin/deneme1/Variables_Değişkenler/obj/Debug/net10.0/ref/Variables_Değişkenler.dll

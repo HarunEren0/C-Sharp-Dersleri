@@ -1,0 +1,14 @@
+/home/capsin/deneme1/deneme1/bin/Debug/net10.0/deneme1
+/home/capsin/deneme1/deneme1/bin/Debug/net10.0/deneme1.deps.json
+/home/capsin/deneme1/deneme1/bin/Debug/net10.0/deneme1.runtimeconfig.json
+/home/capsin/deneme1/deneme1/bin/Debug/net10.0/deneme1.dll
+/home/capsin/deneme1/deneme1/bin/Debug/net10.0/deneme1.pdb
+/home/capsin/deneme1/deneme1/obj/Debug/net10.0/deneme1.GeneratedMSBuildEditorConfig.editorconfig
+/home/capsin/deneme1/deneme1/obj/Debug/net10.0/deneme1.AssemblyInfoInputs.cache
+/home/capsin/deneme1/deneme1/obj/Debug/net10.0/deneme1.AssemblyInfo.cs
+/home/capsin/deneme1/deneme1/obj/Debug/net10.0/deneme1.csproj.CoreCompileInputs.cache
+/home/capsin/deneme1/deneme1/obj/Debug/net10.0/deneme1.dll
+/home/capsin/deneme1/deneme1/obj/Debug/net10.0/refint/deneme1.dll
+/home/capsin/deneme1/deneme1/obj/Debug/net10.0/deneme1.pdb
+/home/capsin/deneme1/deneme1/obj/Debug/net10.0/deneme1.genruntimeconfig.cache
+/home/capsin/deneme1/deneme1/obj/Debug/net10.0/ref/deneme1.dll

@@ -1,0 +1,14 @@
+/home/capsin/deneme1/Veliables_Değişkenler/bin/Debug/net10.0/Veliables_Değişkenler
+/home/capsin/deneme1/Veliables_Değişkenler/bin/Debug/net10.0/Veliables_Değişkenler.deps.json
+/home/capsin/deneme1/Veliables_Değişkenler/bin/Debug/net10.0/Veliables_Değişkenler.runtimeconfig.json
+/home/capsin/deneme1/Veliables_Değişkenler/bin/Debug/net10.0/Veliables_Değişkenler.dll
+/home/capsin/deneme1/Veliables_Değişkenler/bin/Debug/net10.0/Veliables_Değişkenler.pdb
+/home/capsin/deneme1/Veliables_Değişkenler/obj/Debug/net10.0/Veliables_Değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+/home/capsin/deneme1/Veliables_Değişkenler/obj/Debug/net10.0/Veliables_Değişkenler.AssemblyInfoInputs.cache
+/home/capsin/deneme1/Veliables_Değişkenler/obj/Debug/net10.0/Veliables_Değişkenler.AssemblyInfo.cs
+/home/capsin/deneme1/Veliables_Değişkenler/obj/Debug/net10.0/Veliables_Değişkenler.csproj.CoreCompileInputs.cache
+/home/capsin/deneme1/Veliables_Değişkenler/obj/Debug/net10.0/Veliables_Değişkenler.dll
+/home/capsin/deneme1/Veliables_Değişkenler/obj/Debug/net10.0/refint/Veliables_Değişkenler.dll
+/home/capsin/deneme1/Veliables_Değişkenler/obj/Debug/net10.0/Veliables_Değişkenler.pdb
+/home/capsin/deneme1/Veliables_Değişkenler/obj/Debug/net10.0/Veliables_Değişkenler.genruntimeconfig.cache
+/home/capsin/deneme1/Veliables_Değişkenler/obj/Debug/net10.0/ref/Veliables_Değişkenler.dll
