@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/capsin/deneme1/01_Giriş_Yazdırma/deneme1.csproj": {}
+    "/home/capsin/repositories/C-Sharp-Dersleri/01_Giriş_Yazdırma/deneme1.csproj": {}
   },
   "projects": {
-    "/home/capsin/deneme1/01_Giriş_Yazdırma/deneme1.csproj": {
+    "/home/capsin/repositories/C-Sharp-Dersleri/01_Giriş_Yazdırma/deneme1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/capsin/deneme1/01_Giriş_Yazdırma/deneme1.csproj",
+        "projectUniqueName": "/home/capsin/repositories/C-Sharp-Dersleri/01_Giriş_Yazdırma/deneme1.csproj",
         "projectName": "deneme1",
-        "projectPath": "/home/capsin/deneme1/01_Giriş_Yazdırma/deneme1.csproj",
+        "projectPath": "/home/capsin/repositories/C-Sharp-Dersleri/01_Giriş_Yazdırma/deneme1.csproj",
         "packagesPath": "/home/capsin/.nuget/packages/",
-        "outputPath": "/home/capsin/deneme1/01_Giriş_Yazdırma/obj/",
+        "outputPath": "/home/capsin/repositories/C-Sharp-Dersleri/01_Giriş_Yazdırma/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/capsin/.nuget/NuGet/NuGet.Config"

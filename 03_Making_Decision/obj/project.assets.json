@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/capsin/deneme1/03_Making_Decision/03_Making_Decision.csproj",
+      "projectUniqueName": "/home/capsin/repositories/C-Sharp-Dersleri/03_Making_Decision/03_Making_Decision.csproj",
       "projectName": "03_Making_Decision",
-      "projectPath": "/home/capsin/deneme1/03_Making_Decision/03_Making_Decision.csproj",
+      "projectPath": "/home/capsin/repositories/C-Sharp-Dersleri/03_Making_Decision/03_Making_Decision.csproj",
       "packagesPath": "/home/capsin/.nuget/packages/",
-      "outputPath": "/home/capsin/deneme1/03_Making_Decision/obj/",
+      "outputPath": "/home/capsin/repositories/C-Sharp-Dersleri/03_Making_Decision/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/capsin/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/capsin/deneme1/02_Variables_Değişkenler/Variables_Değişkenler.csproj",
+      "projectUniqueName": "/home/capsin/repositories/C-Sharp-Dersleri/02_Variables_Değişkenler/Variables_Değişkenler.csproj",
       "projectName": "Variables_Değişkenler",
-      "projectPath": "/home/capsin/deneme1/02_Variables_Değişkenler/Variables_Değişkenler.csproj",
+      "projectPath": "/home/capsin/repositories/C-Sharp-Dersleri/02_Variables_Değişkenler/Variables_Değişkenler.csproj",
       "packagesPath": "/home/capsin/.nuget/packages/",
-      "outputPath": "/home/capsin/deneme1/02_Variables_Değişkenler/obj/",
+      "outputPath": "/home/capsin/repositories/C-Sharp-Dersleri/02_Variables_Değişkenler/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/capsin/.nuget/NuGet/NuGet.Config"
