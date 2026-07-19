@@ -1,5 +1,9 @@
 ﻿#region IF 
 
+
+
+
+
 /*
 
 Console.Write("Lütfen Şifre Giriniz: ");
@@ -54,13 +58,9 @@ else
 */
 
 
-
-
-
-
-
-
-
-
-
 #endregion
+
+
+
+
+sss
