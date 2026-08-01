@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/home/capsin/.nuget/packages/": {}
+    "/home/harun/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/capsin/repositories/C-Sharp-Dersleri/01_Giriş_Yazdırma/deneme1.csproj",
+      "projectUniqueName": "/home/harun/repositories/C-Sharp-Dersleri/01_Giriş_Yazdırma/deneme1.csproj",
       "projectName": "deneme1",
-      "projectPath": "/home/capsin/repositories/C-Sharp-Dersleri/01_Giriş_Yazdırma/deneme1.csproj",
-      "packagesPath": "/home/capsin/.nuget/packages/",
-      "outputPath": "/home/capsin/repositories/C-Sharp-Dersleri/01_Giriş_Yazdırma/obj/",
+      "projectPath": "/home/harun/repositories/C-Sharp-Dersleri/01_Giriş_Yazdırma/deneme1.csproj",
+      "packagesPath": "/home/harun/.nuget/packages/",
+      "outputPath": "/home/harun/repositories/C-Sharp-Dersleri/01_Giriş_Yazdırma/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/capsin/.nuget/NuGet/NuGet.Config"
+        "/home/harun/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.109/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.110/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

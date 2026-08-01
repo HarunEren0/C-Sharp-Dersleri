@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/capsin/repositories/C-Sharp-Dersleri/02_Variables_Değişkenler/Variables_Değişkenler.csproj": {}
+    "/home/harun/repositories/C-Sharp-Dersleri/02_Variables_Değişkenler/Variables_Değişkenler.csproj": {}
   },
   "projects": {
-    "/home/capsin/repositories/C-Sharp-Dersleri/02_Variables_Değişkenler/Variables_Değişkenler.csproj": {
+    "/home/harun/repositories/C-Sharp-Dersleri/02_Variables_Değişkenler/Variables_Değişkenler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/capsin/repositories/C-Sharp-Dersleri/02_Variables_Değişkenler/Variables_Değişkenler.csproj",
+        "projectUniqueName": "/home/harun/repositories/C-Sharp-Dersleri/02_Variables_Değişkenler/Variables_Değişkenler.csproj",
         "projectName": "Variables_Değişkenler",
-        "projectPath": "/home/capsin/repositories/C-Sharp-Dersleri/02_Variables_Değişkenler/Variables_Değişkenler.csproj",
-        "packagesPath": "/home/capsin/.nuget/packages/",
-        "outputPath": "/home/capsin/repositories/C-Sharp-Dersleri/02_Variables_Değişkenler/obj/",
+        "projectPath": "/home/harun/repositories/C-Sharp-Dersleri/02_Variables_Değişkenler/Variables_Değişkenler.csproj",
+        "packagesPath": "/home/harun/.nuget/packages/",
+        "outputPath": "/home/harun/repositories/C-Sharp-Dersleri/02_Variables_Değişkenler/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/capsin/.nuget/NuGet/NuGet.Config"
+          "/home/harun/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.109/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.110/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
